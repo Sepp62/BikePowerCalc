@@ -1,0 +1,8 @@
+= Bike Power Calc =
+
+   Calculations around bike power
+   Tested on  ESP32
+
+  Version history:
+
+    0.10   04/04/2021  created

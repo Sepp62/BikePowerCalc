@@ -1,0 +1,5 @@
+other calculations:
+
+- read gpx file
+- calc distance between coordinates
+- average for roll resistance measurement tables
